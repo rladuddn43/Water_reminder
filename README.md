@@ -8,9 +8,9 @@ This repositiory is about Water_reminder application. it's my first project.
 - 진행률 표시
 - 알림 기능
 
-  ##Tech Stack
-  - Kotlin
-  - Android Studio
-  - Jetpack Compose
+##Tech Stack
+- Kotlin
+- Android Studio
+- Jetpack Compose
 
 
